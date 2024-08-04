@@ -1,0 +1,1 @@
+The project was to read the database, divide it into training and testing data and trying to figure out from the athletes and the number of previous medals a country has won. and then try to figure out how many they are likely to win in the future.
